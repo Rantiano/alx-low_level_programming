@@ -4,7 +4,7 @@
 /**
  * main - generate random numbers to detect -ve or +ve
  *
- * Reture: always (0)
+ * Return: always (0)
  *
  */
 int main(void)
