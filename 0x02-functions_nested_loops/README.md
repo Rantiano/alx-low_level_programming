@@ -1,1 +1,0 @@
-This is 0x02. C - Functions, nested loops project of the ALX software learning
