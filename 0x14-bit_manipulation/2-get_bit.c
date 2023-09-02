@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * get_bit – this function returns the value of a bit at a given index
+ * get_bit - function returns the value of a bit at a given index
  * in a decimal number
  * @n: The number to be searched for
  * @index: The bit index
